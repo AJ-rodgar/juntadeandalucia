@@ -1,0 +1,13 @@
+img {
+    width: 100%;
+    height: 300px;
+}
+
+.verde {
+    color: green;
+}
+
+button {
+    background-color: green;
+    color: white;
+}
